@@ -7,7 +7,7 @@ title: urnotBonitaLee
 subtitle:
 description:
 author: Bonita Lee
-language: en
+language: zh-tw
 timezone:
 
 # URL
@@ -24,7 +24,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: lang
+i18n_dir: :lang
 skip_render:
 
 # Writing
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: element
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
