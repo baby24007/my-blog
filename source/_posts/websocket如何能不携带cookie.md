@@ -4,7 +4,7 @@ date: 2018-03-22 18:08:33
 tags:
 - websocket
 - cookie
------
+---
 
 ## 背景：
    IM工程接口都迁移到另一个工程下，域名是channel.xiaoshouyi.com;同时部署了一个相同域名不同协议的websocket。此时ws请求中会携带所有.xiaoshouyi.com下的cookie，导致同时打开crm.xiaoshouyi.com的其他页面会因此被logout。

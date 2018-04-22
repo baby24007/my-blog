@@ -3,7 +3,7 @@ title: post local repository to remote
 date: 2018-03-20 22:12:04
 tags: 
 - git
----------
+---
 > 哎，之前的blog不小心被我删除了，现在本地文件还在，怎么把本地代码到github呢，傻瓜式操作
 
 ## 如何清除之前的git信息
