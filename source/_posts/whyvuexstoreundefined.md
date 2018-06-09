@@ -2,7 +2,7 @@
 title: 引入vuex以后，子组件里调用$store的时候始终是undefined
 date: 2018-04-22 23:32:29
 tags: vuex
-----------
+---
 
 最近在学习vue的时候，加入了vuex，在store里创建了index.js,分别引入了module化的store，然后在main.js里引入了store/index.js，引入成功，但是在子组件里调用this.$store的时候一直都是undefined，代码分别如下：
 - store/index/js
